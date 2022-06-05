@@ -6,5 +6,9 @@ A list of Vehicles
 4- Truck
 5- SUV
 
+6- Bicycle
+
+
 
 Completed
+
