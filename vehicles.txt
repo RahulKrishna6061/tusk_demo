@@ -4,3 +4,4 @@ A list of Vehicles
 2- Bike
 3- Bus
 4- Truck
+5- SUV
